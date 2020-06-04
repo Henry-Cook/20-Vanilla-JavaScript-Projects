@@ -6,3 +6,5 @@ https://www.udemy.com/course/web-projects-with-vanilla-javascript/
 #1: Form Validator - Simple registration form validation, checks username and password for length, chekcs email for proper format, and then checks to make sure the confirmation password matches the first one. 
 
 #2: Movie Seat Booking - You can  pick a movie and pick seats. Can't pick seats that are already taken. Each movie has a different price, which is updated accordingly. Everything is saved in local storage.  
+
+#3: Custom Video Player - Play, Pause, and stop videos with custom buttons. It also has a timestamp that updates in real time, and you can click along the progess bar to jump ahead. 
